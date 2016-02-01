@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio_53_3</string>
+    <string name="action_about">Acerca de ...</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_exit">Salir</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
